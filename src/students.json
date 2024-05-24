@@ -1,0 +1,15 @@
+{
+    "123456789": {
+      "nic": "123456789",
+      "name": "Ahmet",
+      "address": "ABC Cadde",
+      "contact": "+905551234567"
+    },
+    "987654321": {
+      "nic": "987654321",
+      "name": "Ayse Kaya",
+      "address": "5678 Sokak Ankara",
+      "contact": "+905555555555"
+    }
+  }
+  
